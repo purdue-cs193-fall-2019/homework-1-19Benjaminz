@@ -14,9 +14,11 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Benjamin Zhu's firs CS193 Homework
 
 - Bulleted
 - List
+- The teacher!
 
 1. Numbered
 2. List
